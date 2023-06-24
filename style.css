@@ -1,0 +1,23 @@
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status,numberofobjects
+{
+font-size: 18px;
+}
+
+.bg_background {
+    background-image: url("background.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+canvas {
+    border: 5px solid aquamarine;
+    border-radius: 20px;
+    box-shadow:5px 5px 10px darkblue ;
+}
